@@ -1,0 +1,94 @@
+{
+        "id": "59bb7a6e7cac297aca15f7e4",
+        "first_name": "Mathew",
+        "last_name": "Anderson",
+        "display_name": "Matt Anderson",
+        "author_data": {
+            "profiles": [
+                {
+                    "external": {
+                        "fe9efe99d8f3dd4ab066fc66738bd837": {
+                            "author_id": "23270",
+                            "staff_id": "10563",
+                            "columnist": "0",
+                            "twitter": "mattanderson34",
+                            "short_bio": "Matt Anderson is an intern for the Deseret News.",
+                            "full_bio": "Matt Anderson is a web news intern for the Deseret News. He attended Southern Virginia University where he worked for Southern Virginia&rsquo;s communications department. A native of Salt Lake City, Matt enjoys telling stories, whether it be visually or in writing.",
+                            "photo": "//cdn.deseretnews.com/images/author/authorpage/23270/23270.jpg"
+                        }
+                    },
+                    "short_bio": "Matt Anderson is an intern for the Deseret News.",
+                    "full_bio": "Matt Anderson is a web news intern for the Deseret News. He attended Southern Virginia University where he worked for Southern Virginia&rsquo;s communications department. A native of Salt Lake City, Matt enjoys telling stories, whether it be visually or in writing.",
+                    "photo": "//cdn.deseretnews.com/images/author/authorpage/23270/23270.jpg",
+                    "site": "dnews"
+                },
+                {
+                    "external": {
+                        "fe9efe99d8f3dd4ab066fc66738bd837": {
+                            "author_id": "23270",
+                            "staff_id": "10563",
+                            "columnist": "0",
+                            "twitter": "mattanderson34",
+                            "short_bio": "Matt Anderson is an intern for the Deseret News.",
+                            "full_bio": "Matt Anderson is a web news intern for the Deseret News. He attended Southern Virginia University where he worked for Southern Virginia&rsquo;s communications department. A native of Salt Lake City, Matt enjoys telling stories, whether it be visually or in writing.",
+                            "photo": "//cdn.deseretnews.com/images/author/authorpage/23270/23270.jpg"
+                        }
+                    },
+                    "short_bio": "Matt Anderson is an intern for the Deseret News.",
+                    "full_bio": "Matt Anderson is a web news intern for the Deseret News. He attended Southern Virginia University where he worked for Southern Virginia&rsquo;s communications department. A native of Salt Lake City, Matt enjoys telling stories, whether it be visually or in writing.",
+                    "photo": "//cdn.deseretnews.com/images/author/authorpage/23270/23270.jpg",
+                    "site": "ldschurchnews"
+                }
+            ],
+            "bylines": [
+                {
+                    "internal_label": "Matt Anderson - Deseret News[23270]",
+                    "display_name": "Mathew Anderson",
+                    "site": "dnews",
+                    "publication": "Deseret News"
+                },
+                {
+                    "internal_label": "Matt Anderson - LDS Church News[23270]",
+                    "display_name": "Mathew Anderson",
+                    "site": "ldschurchnews",
+                    "publication": "LDS Church News"
+                }
+            ],
+            "author_profiles": [
+                {
+                    "id": 0,
+                    "display_name": "Mathew Anderson",
+                    "publication": "Deseret News",
+                    "internal_label": "Matt Anderson - Deseret News[23270]",
+                    "sites": [
+                        "dnews"
+                    ],
+                    "email": "",
+                    "short_bio": "Matt Anderson is an intern for the Deseret News.",
+                    "full_bio": "Matt Anderson is a web news intern for the Deseret News. He attended Southern Virginia University where he worked for Southern Virginia&rsquo;s communications department. A native of Salt Lake City, Matt enjoys telling stories, whether it be visually or in writing.",
+                    "image_data": [],
+                    "social": [],
+                    "note": "",
+                    "title": "",
+                    "external": {
+                        "fe9efe99d8f3dd4ab066fc66738bd837": {
+                            "author_id": "23270",
+                            "columnist": "0",
+                            "full_bio": "Matt Anderson is a web news intern for the Deseret News. He attended Southern Virginia University where he worked for Southern Virginia&rsquo;s communications department. A native of Salt Lake City, Matt enjoys telling stories, whether it be visually or in writing.",
+                            "photo": "//cdn.deseretnews.com/images/author/authorpage/23270/23270.jpg",
+                            "short_bio": "Matt Anderson is an intern for the Deseret News.",
+                            "staff_id": "10563",
+                            "twitter": "mattanderson34"
+                        }
+                    }
+                }
+            ],
+            "social": []
+        },
+        "created": "2017-09-15T00:59:58-0600",
+        "modified": "2017-12-14T11:04:01-0700",
+        "active": true,
+        "author_id": 22887,
+        "ext_id": "16980",
+        "ext_publication": "dc"
+    }
