@@ -13,24 +13,6 @@ import AppRouter from './routers/AppRouter';
 
 const store = configureStore();
 
-store.dispatch(addExpense({
-    description: 'Water bill',
-    amount: 100,
-    createdAt: 1000
-}));
-
-store.dispatch(addExpense({
-    description: 'Gas bill',
-    amount: 200,
-    createdAt: 1500
-}));
-
-store.dispatch(addExpense({
-    description: 'Rent',
-    amount: 100000,
-    createdAt: 500
-}));
-
 const jsx = (
     <Provider store={store}>
         <AppRouter />
