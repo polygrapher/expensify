@@ -33,7 +33,6 @@ exports[`should not set any value to state on amount change if value is not vali
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -48,11 +47,9 @@ exports[`should not set any value to state on amount change if value is not vali
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -90,7 +87,6 @@ exports[`should not set any value to state on amount change if value is not vali
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -139,7 +135,6 @@ exports[`should not set any value to state on amount change if value is not vali
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -154,11 +149,9 @@ exports[`should not set any value to state on amount change if value is not vali
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -196,7 +189,6 @@ exports[`should not set any value to state on amount change if value is not vali
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -245,7 +237,6 @@ exports[`should render empty expense form 1`] = `
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -260,11 +251,9 @@ exports[`should render empty expense form 1`] = `
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -302,7 +291,6 @@ exports[`should render empty expense form 1`] = `
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -351,7 +339,6 @@ exports[`should render error if no form values were provided 1`] = `
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -366,11 +353,9 @@ exports[`should render error if no form values were provided 1`] = `
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -408,7 +393,6 @@ exports[`should render error if no form values were provided 1`] = `
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -461,7 +445,6 @@ exports[`should render error if no form values were provided 2`] = `
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -476,11 +459,9 @@ exports[`should render error if no form values were provided 2`] = `
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -518,7 +499,6 @@ exports[`should render error if no form values were provided 2`] = `
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -567,7 +547,6 @@ exports[`should render expense form with provided expense values 1`] = `
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -582,11 +561,9 @@ exports[`should render expense form with provided expense values 1`] = `
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -624,7 +601,6 @@ exports[`should render expense form with provided expense values 1`] = `
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -673,7 +649,6 @@ exports[`should set correct value on description change 1`] = `
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -688,11 +663,9 @@ exports[`should set correct value on description change 1`] = `
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -730,7 +703,6 @@ exports[`should set correct value on description change 1`] = `
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -779,7 +751,6 @@ exports[`should set correct value on description change 2`] = `
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -794,11 +765,9 @@ exports[`should set correct value on description change 2`] = `
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -836,7 +805,6 @@ exports[`should set correct value on description change 2`] = `
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -885,7 +853,6 @@ exports[`should set correct value to state on amount change if value is valid 1`
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -900,11 +867,9 @@ exports[`should set correct value to state on amount change if value is valid 1`
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -942,7 +907,6 @@ exports[`should set correct value to state on amount change if value is valid 1`
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -991,7 +955,6 @@ exports[`should set correct value to state on amount change if value is valid 2`
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -1006,11 +969,9 @@ exports[`should set correct value to state on amount change if value is valid 2`
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -1048,7 +1009,6 @@ exports[`should set correct value to state on amount change if value is valid 2`
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -1097,7 +1057,6 @@ exports[`should set correct value to state on note change 1`] = `
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -1112,11 +1071,9 @@ exports[`should set correct value to state on note change 1`] = `
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -1154,7 +1111,6 @@ exports[`should set correct value to state on note change 1`] = `
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
@@ -1203,7 +1159,6 @@ exports[`should set correct value to state on note change 2`] = `
       horizontalMargin={0}
       id="date"
       initialVisibleMonth={null}
-      inputIconPosition="before"
       isDayBlocked={[Function]}
       isDayHighlighted={[Function]}
       isOutsideRange={[Function]}
@@ -1218,11 +1173,9 @@ exports[`should set correct value to state on note change 2`] = `
       onFocusChange={[Function]}
       onNextMonthClick={[Function]}
       onPrevMonthClick={[Function]}
-      openDirection="down"
       orientation="horizontal"
       phrases={
         Object {
-          "calendarLabel": "Calendar",
           "chooseAvailableDate": [Function],
           "clearDate": "Clear Date",
           "closeDatePicker": "Close",
@@ -1260,7 +1213,6 @@ exports[`should set correct value to state on note change 2`] = `
       screenReaderInputMessage=""
       showClearDate={false}
       showDefaultInputIcon={false}
-      weekDayFormat="dd"
       withFullScreenPortal={false}
       withPortal={false}
     />
