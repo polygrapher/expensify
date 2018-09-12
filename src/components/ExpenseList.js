@@ -1,12 +1,13 @@
 import React from 'react';
 import { connect } from 'react-redux';
-
 import ExpenseListItem from './ExpenseListItem';
+import ExpenseTotal from './ExpenseTotal';
 import selectExpenses from '../selectors/expenses';
 
 export const ExpenseList = ({expenses = []}) => (
     <div>
         <h1>Expense List</h1>
+        <ExpenseTotal />
         {
             expenses.length ? (
                 <ul>

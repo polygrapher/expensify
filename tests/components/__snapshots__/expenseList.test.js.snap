@@ -5,6 +5,7 @@ exports[`should render expense list with expenses 1`] = `
   <h1>
     Expense List
   </h1>
+  <Connect(ExpenseTotal) />
   <ul>
     <ExpenseListItem
       amount={10000}
@@ -39,6 +40,7 @@ exports[`should render no expense found message 1`] = `
   <h1>
     Expense List
   </h1>
+  <Connect(ExpenseTotal) />
   <p>
     No expenses found
   </p>
