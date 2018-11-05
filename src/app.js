@@ -9,7 +9,7 @@ import {addExpense} from './actions/expenses';
 import {setTextFilter} from './actions/filters';
 import getVisibleExpenses from './selectors/expenses';
 import AppRouter from './routers/AppRouter';
-
+import firebase from './firebase/firebase';
 
 const store = configureStore();
 
