@@ -75,3 +75,13 @@ test('should not update expense with incorrect ID', () => {
 
     expect(state).toEqual(expenses);
 });
+
+test('should set expenses', () => {
+    const newExpenses = [expenses[1], expenses[2]];
+    const state = expnesesReducers([expenses[0]], {
+        type: 'SET_EXPENSES',
+        expenses: newExpenses
+    });
+
+    expect(state).toEqual(newExpenses);
+});
