@@ -34,5 +34,8 @@ exports[`Header renders correctly: Expensify 1`] = `
   >
     Help
   </NavLink>
+  <button>
+    Log out
+  </button>
 </header>
 `;
