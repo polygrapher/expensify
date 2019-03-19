@@ -5,9 +5,13 @@ import numeral from 'numeral';
 
 const ExpenseListItem = ({id, description, amount = 0, createdAt = 0}) => (
     <li>
-        <h3><Link to={`/edit/${id}`}>{description}</Link></h3>
-        <p>Amount: {numeral(amount / 100).format('$0,00.00')}</p>
-        <p>Created At {moment(createdAt).format('MMMM Do, YYYY')}</p>
+        <Link to={`/edit/${id}`} className="list-item">
+            <div>
+                <h3 className="list-item__title">{description}</h3>
+                <span className="list-item__sub-title">{moment(createdAt).format('MMMM Do, YYYY')}</span>
+            </div>
+            <h3 className="list-item__data">{numeral(amount / 100).format('$0,00.00')}</h3>
+        </Link>
     </li>
 );
 
